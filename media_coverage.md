@@ -8,6 +8,6 @@ permalink: /media_coverage/
 Heart cells, sensor networks, and earthquakes get in sync by firing sudden pulses. What does the "route to synchrony" look like?
 
 ### [Swarmalators](https://phys.org/news/2017-11-mathematician-swarmalators-future-science.html)
-Fireflies can sync. Fish can swarm. But what can syncs and swarm?  
+Fireflies can sync. Fish can swarm. But what can sync and swarm?  
 
 

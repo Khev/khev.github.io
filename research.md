@@ -4,4 +4,4 @@ title: research
 permalink: /research/
 ---
 
-Here I'll tell people about my research.
+Here I'll describe my research.

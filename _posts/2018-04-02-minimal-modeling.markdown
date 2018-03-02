@@ -15,7 +15,7 @@ Here I'll talk about minimal modeling -- taken from my [thesis][ref].
 
 
 > Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things.  
-> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- Isaac Newton
+> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- Isaac Newton
 
 
 
@@ -23,7 +23,7 @@ Here I'll talk about minimal modeling -- taken from my [thesis][ref].
 &nbsp;
 
 
-In my first year of grad school, Prof Chris Henley told me Ising was an average student. I was shocked, the Ising model is famous in physics, one of the cornerstones of statistical mechanics. It was originally introduced as a toy model of ferromagneticmaterials, where the magnetic spin of the constituent particles was idealized to be either 'up' or 'down' (in reality the spin can point in any direction). But its full importance came later, when it was used to understand general critical phenomena, universality, and ultimately the renormalization group; well known triumphs of modern physics. Since then, it has found application in fields ranging from social dynamics to neurobiology.
+In my first year of grad school, Prof Chris Henley told me Ising was an average student. I was shocked -- the Ising model is famous in physics, one of the cornerstones of statistical mechanics. It was originally introduced as a toy model of ferromagneticmaterials, where the magnetic spin of the constituent particles was idealized to be either 'up' or 'down' (in reality the spin can point in any direction). But its full importance came later, when it was used to understand general critical phenomena, universality, and ultimately the renormalization group; well known triumphs of modern physics. Since then, it has found application in fields ranging from social dynamics to neurobiology.
 
 I was curious how such a successful model could have such a humble origin. I found out that the supposedly modest ability of its progenitor was just one of the quirks of its curious history [^fn1]. For instance, it was Ising's advisor, Lenz, who conceived the model, whereas Ising just carried out the calculations (to his credit, Ising tried to re-christen it the "Lenz-Ising" model, but it didn't stick [^fn2]). Furthermore, Ising's original paper had a mistake! He correctly showed that in one dimension there was no ferromagnetic transition, but wrongly concluded that this result would hold in three dimensions. 
 

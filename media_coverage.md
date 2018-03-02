@@ -4,10 +4,9 @@ title: media coverage
 permalink: /media_coverage/
 ---
 
-[**Pulse-coupled oscillators**](http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.115.064101) <br/>
-Heart cells, sensor networks, and earthquakes get in sync by firing sudden pulses. What does the "route to synchrony" look like?
-
-[**Swarmalators**](https://phys.org/news/2017-11-mathematician-swarmalators-future-science.html) <br/>
-Fireflies can sync. Fish can swarm. But what can sync and swarm?  
+**Pulse-coupled oscillators** <br/>
+Heart cells, sensor networks, and earthquakes get in sync by firing sudden pulses. What does the "route to synchrony" look like? Find out [here](http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.115.064101).
 
 
+**Swarmalators** <br/>
+Fireflies can sync. Fish can swarm. But what can sync and swarm? Find out in [this](https://phys.org/news/2017-11-mathematician-swarmalators-future-science.html) Phys.org article, and [this](https://sinews.siam.org/Details-Page/self-organization-in-space-and-time) SIAM news article.  

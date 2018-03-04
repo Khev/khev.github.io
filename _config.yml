@@ -16,7 +16,7 @@
 title: Titular gap
 email: kevin.p.okeeffe@gmail.com    
 description: >- # this means to ignore newlines until "baseurl:"
-    Here I'll post the odd link I find interesting. Or manybe even something longer, who knows?
+    Here I'll post the odd link I find interesting. Or maybe even something longer, who knows?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kevsational

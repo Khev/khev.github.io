@@ -4,5 +4,13 @@ title: about
 permalink: /about/
 ---
 
-Kev is an applied mathematician. For his PhD, he studied complex systems under [Steve Strogatz](http://www.stevenstrogatz.com/) at Cornell. Now he's a postdoctoral fellow at the MIT [Senseable City Lab](http://senseable.mit.edu/) trying to understand how cities work, from a complex systems / data science / machine learning perspective.
+# Kevin O'Keeffe
 
+<img src="/pic.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" 
+     height="200"
+     align = "left"
+     />
+
+Kev is an applied mathematician. He did his doctoral work on complex systems under [Steve Strogatz](http://www.stevenstrogatz.com/) at Cornell. Now he's a postdoctoral fellow at the MIT [Senseable City Lab](http://senseable.mit.edu/) trying to understand how cities work, from a complex systems / data science / machine learning perspective.

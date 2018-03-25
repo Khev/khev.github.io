@@ -5,8 +5,7 @@ permalink: /research/
 ---
 
 
-I like self organization systems. My graduate research was thusly focused on this theme -- exploring the conduct of coupled oscillators, a selction of which I give below.
-
+I like self-organization systems.
 
 **Swarmalators: oscillators that sync and swarm**
 

@@ -24,7 +24,7 @@ github_username:  khev
 
 # Build settings
 markdown: kramdown
-theme: Minimal
+theme: minima
 plugins:
   - jekyll-feed
 

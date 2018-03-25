@@ -33,7 +33,7 @@ style="float: left; margin-right: 10px;"
 height="120"
 align = "left"/>
 
-During every heartbeat, thousands of pacemaker cells discharge together. This collective firing causes the contraction of cardiac muscles, which pumps blood around the body. Should these firing fall out of step, heartbeats can become erratic, which inhibits blood flow. In order to maintain healthy heart function, the pacemaker cells must therefore maintain their synchronous firing. 
+During every heartbeat, thousands of pacemaker cells discharge all-at-once. This collective firing causes the contraction of cardiac muscles, which pumps blood around the body. Should these firing fall out of step, heartbeats can become erratic, inhibiting blood flow. In order to maintain healthy heart function, the pacemaker cells must therefore forever maintain their synchronous firing. 
 
 But how, precisely, do they do so? How do groups of cells stay organized enough to keep your heart beating? In this project, we try to figure this out -- see this [paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.064101) and this [paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.032203). 
 

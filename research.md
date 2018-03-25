@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-I like self-organization systems.
+I like self-organization.
 
 **Swarmalators: oscillators that sync and swarm**
 

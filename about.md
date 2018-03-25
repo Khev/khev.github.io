@@ -6,7 +6,7 @@ permalink: /about/
 
 # Kevin O'Keeffe
 
-<img src="/pic.jpg"
+<img src="/pic.JPG"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" 
      height="200"

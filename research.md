@@ -19,7 +19,7 @@ align = "left"/>
 
 Synchronization occurs in many natural and technological systems, from cardiac pacemaker cells to coupled lasers. In the synchronized state, the individual cells or lasers coordinate the timing of their oscillations, but they do not move through space. A complementary form of self-organization occurs among swarming insects, flocking birds, or schooling fish; now the individuals move through space, but without conspicuously altering their internal states. 
 
-Yet in some systems -- such as groups of sperm, Japanese tree frogs, and colloidal suspensions of magnetic particles -- self assembly and synchronization occur together. In this [project](https://www.nature.com/articles/s41467-017-01190-3), we investigate the co-action of these twin forms of self-orgnaization. You can find a fun demo [here](http://usediscretion.blogspot.com/2017/01/the-swarmalator.html)
+Yet in some systems -- such as groups of sperm, Japanese tree frogs, and colloidal suspensions of magnetic particles -- self assembly and synchronization occur together. In this [project](https://www.nature.com/articles/s41467-017-01190-3), we investigate the co-action of these twin forms of self-orgnaization. You can find a fun demo [here](http://usediscretion.blogspot.com/2017/01/the-swarmalator.html).
 
 &nbsp;
 &nbsp;

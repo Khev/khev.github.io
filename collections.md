@@ -11,4 +11,4 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 
 [**Letter to an aspiring intellectual**](https://www.firstthings.com/article/2018/05/letter-to-an-aspiring-intellectual) <br/>
-Great piece on the development of a researcher / intellect. I liked the line "Your gaze is drawn, a flirtation begins, you learn more, you find some interlocutors, and, sometimes before you know it, your topic is before you and your intellectual course is set. There’s no algorithm for this: It’ll happen or it won’t."
+"Your gaze is drawn, a flirtation begins, you learn more, you find some interlocutors, and, sometimes before you know it, your topic is before you and your intellectual course is set. There’s no algorithm for this: It’ll happen or it won’t."

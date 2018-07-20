@@ -12,3 +12,9 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 [**Letter to an aspiring intellectual**](https://www.firstthings.com/article/2018/05/letter-to-an-aspiring-intellectual) <br/>
 "Your gaze is drawn, a flirtation begins, you learn more, you find some interlocutors, and, sometimes before you know it, your topic is before you and your intellectual course is set. There’s no algorithm for this: It’ll happen or it won’t."
+
+
+[**Negotiation tips**](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea) <br/>
+Nice article on "how not to bomb your negotiation"
+
+

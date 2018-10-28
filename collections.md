@@ -17,4 +17,4 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 [**Negotiation tips**](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea) <br/>
 Nice article on "how not to bomb your negotiation"
 
-
+[**Letter by Boltzmann**](https://homepage.univie.ac.at/Walter.Kutschera/Boltzmann_Reise%20ins%20Eldorado_English%20translation.pdf)

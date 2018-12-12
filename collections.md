@@ -14,7 +14,6 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 "Your gaze is drawn, a flirtation begins, you learn more, you find some interlocutors, and, sometimes before you know it, your topic is before you and your intellectual course is set. There’s no algorithm for this: It’ll happen or it won’t."
 
 
-[**Negotiation tips**](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea) <br/>
-Nice article on "how not to bomb your negotiation"
+[**De profundis**](https://www.gutenberg.org/files/921/921-h/921-h.htm) <br/> Oscar Wilde's 'love' letter to Bosie douglas when in jail. Long, but _very_ worth it.
 
 [**Letter by Boltzmann**](https://homepage.univie.ac.at/Walter.Kutschera/Boltzmann_Reise%20ins%20Eldorado_English%20translation.pdf) <br/> A surprisingly personal and entertaining read

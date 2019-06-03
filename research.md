@@ -5,7 +5,25 @@ permalink: /research/
 ---
 
 
-I like self-organization.
+
+**City Scanner: The sensing power of vehicle fleets**
+
+<img src="/taxi.jpg"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px;"
+height="250"
+align = "left"/>
+
+
+Attaching sensors to crowd-sourced vehicles could provide a cheap and accurate way to monitor air pollution, road quality, and other aspects of a city’s health.[Here](https://arxiv.org/abs/1811.10744) we analyze the 'sensing power' of taxis fleets in 9 major cities worldwide, and find an unexpectedly small number of taxis can scan a city.
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
 
 **Swarmalators: oscillators that sync and swarm**
 

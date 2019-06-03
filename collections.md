@@ -17,3 +17,6 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 [**De profundis**](https://www.gutenberg.org/files/921/921-h/921-h.htm) <br/> Oscar Wilde's 'love' letter to Bosie douglas when in jail. Long, but _very_ worth it.
 
 [**Letter by Boltzmann**](https://homepage.univie.ac.at/Walter.Kutschera/Boltzmann_Reise%20ins%20Eldorado_English%20translation.pdf) <br/> A surprisingly personal and entertaining read
+
+
+[**Web of stories**](https://www.webofstories.com/) <br/> A collection of interesting life stories

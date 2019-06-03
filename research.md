@@ -15,7 +15,7 @@ height="150"
 align = "left"/>
 
 
-Attaching sensors to crowd-sourced vehicles could provide a cheap and accurate way to monitor air pollution, road quality, and other aspects of a city’s health.[Here](https://arxiv.org/abs/1811.10744) we analyze the 'sensing power' of taxis fleets in 9 major cities worldwide, and find an unexpectedly small number of taxis can scan a city.
+Attaching sensors to crowd-sourced vehicles could provide a cheap and accurate way to monitor air pollution, road quality, and other aspects of a city’s health. [Here](https://arxiv.org/abs/1811.10744) we analyze the 'sensing power' of taxis fleets in 9 major cities worldwide, and find an unexpectedly small number of taxis can scan a city.
 
 
 &nbsp;

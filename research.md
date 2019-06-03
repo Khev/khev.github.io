@@ -11,7 +11,7 @@ permalink: /research/
 <img src="/taxi.jpg"
 alt="Markdown Monster icon"
 style="float: left; margin-right: 10px;"
-height="200"
+height="150"
 align = "left"/>
 
 

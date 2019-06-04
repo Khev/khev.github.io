@@ -6,7 +6,7 @@ permalink: /research/
 
 
 
-**City Scanner: The sensing power of vehicle fleets**
+**City Scanner: the sensing power of vehicle fleets**
 
 <img src="/taxi.jpg"
 alt="Markdown Monster icon"

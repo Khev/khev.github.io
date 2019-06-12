@@ -6,7 +6,7 @@ permalink: /research/
 
 
 
-**City Scanner: the sensing power of vehicle fleets**
+**Quantifying the sensing power of vehicle fleets**
 
 <img src="/taxi.jpg"
 alt="Markdown Monster icon"
@@ -14,10 +14,7 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-
-Attaching sensors to crowd-sourced vehicles could provide a cheap and accurate way to monitor air pollution, road quality, and other aspects of a city’s health. [Here](https://arxiv.org/abs/1811.10744) we analyze the 'sensing power' of taxis fleets in 9 major cities worldwide, and find an unexpectedly small number of taxis can scan a city.
-
-
+Monitoring urban environments is a challenging task; air pollution, road quality, congestion, and other quantities of interest vary widely across both space and time, and therefore require much effort to accurately monitor. A 'drive-by' approach to sensing could solve this problem. By attaching sensors to third party urban vehicles -- like cars, taxis, buses or trucks -- the spatiotemporal profile of a city could be scanned with great ease and accuracy. In this PNAS [paper](https://www.pnas.org/content/early/2019/06/10/1821667116) we analyze the 'sensing power' of taxis fleets in 9 major cities worldwide. We  find an unexpectedly small number of taxis can scan a large portion of a city, verifying drive-by sensing can be readily implemented in the real world. See here for a nice [visualization](http://senseable.mit.edu/wip/urban-sensing/) 
 
 &nbsp;
 &nbsp;

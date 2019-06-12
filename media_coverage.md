@@ -6,7 +6,7 @@ permalink: /media_coverage/
 
 
 **The sensing power of vehicle fleets** <br/>
-How many taxis does it take to scan a city? Find out [here](http://news.cornell.edu/stories/2019/06/how-many-taxis-can-scan-city-fewer-youd-think).
+Can we use taxis to monitor urban enviroments? See [here](http://news.cornell.edu/stories/2019/06/how-many-taxis-can-scan-city-fewer-youd-think) and [here](http://news.mit.edu/2019/sensor-vehicles-map-city-0611)
 
 
 **Pulse-coupled oscillators** <br/>

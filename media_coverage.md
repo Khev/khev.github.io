@@ -5,7 +5,7 @@ permalink: /media_coverage/
 ---
 
 
-**Quantifying the sensing power of vehicle fleets** <br/>
+**The sensing power of vehicle fleets** <br/>
 How many taxis does it take to scan a city? Find out [here](http://news.cornell.edu/stories/2019/06/how-many-taxis-can-scan-city-fewer-youd-think).
 
 

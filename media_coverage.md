@@ -6,7 +6,11 @@ permalink: /media_coverage/
 
 
 **The sensing power of vehicle fleets** <br/>
-Can we use taxis to monitor urban enviroments? See [here](http://news.cornell.edu/stories/2019/06/how-many-taxis-can-scan-city-fewer-youd-think) and [here](http://news.mit.edu/2019/sensor-vehicles-map-city-0611).
+Can we use taxis to monitor urban enviroments? See
+[this](http://news.cornell.edu/stories/2019/06/how-many-taxis-can-scan-city-fewer-youd-think)
+Cornell news article, [this](http://news.mit.edu/2019/sensor-vehicles-map-city-0611), MIT news
+article, and
+[this](https://www.fastcompany.com/90372824/the-hidden-way-cabs-could-bolster-healthy-living-in-cities) FastCompany article
 
 
 **Pulse-coupled oscillators** <br/>

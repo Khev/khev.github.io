@@ -12,7 +12,7 @@ Cornell news article, [this](http://news.mit.edu/2019/sensor-vehicles-map-city-0
 article,
 [this](https://www.fastcompany.com/90372824/the-hidden-way-cabs-could-bolster-healthy-living-in-cities)
 FastCompany article, and
-[this](https://archpaper.com/2019/07/sensor-mounted-taxis-mit-senseable-city-lab/)
+[this](https://archpaper.com/2019/07/sensor-mounted-taxis-mit-senseable-city-lab/) Architects Newpaper article.
 
 
 **Pulse-coupled oscillators** <br/>

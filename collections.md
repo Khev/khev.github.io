@@ -22,3 +22,7 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 [**Web of stories**](https://www.webofstories.com/) <br/> A collection of interesting life stories
 
 [**Attention networks**](https://skymind.ai/wiki/attention-mechanism-memory-network#rnn) <br/> A nice blog on the different types of NN
+
+
+[**seq2seq tutorial keras**](https://machinelearningmastery.com/encoder-decoder-attention-sequence-to-sequence-prediction-keras/) 
+

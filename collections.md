@@ -26,3 +26,4 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 [**seq2seq tutorial keras**](https://machinelearningmastery.com/encoder-decoder-attention-sequence-to-sequence-prediction-keras/) 
 
+[**Oscar Wilde Versus Nietzche**](https://philosophynow.org/issues/94/The_Twin_Souls_of_Oscar_Wilde_and_Friedrich_Nietzsche) <br/> Interesting comparisons of the two philosohpers

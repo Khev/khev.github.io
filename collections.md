@@ -24,6 +24,8 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 [**Attention networks**](https://skymind.ai/wiki/attention-mechanism-memory-network#rnn) <br/> A nice blog on the different types of NN
 
 
+[**Attention: the math**](https://srome.github.io/Understanding-Attention-in-Neural-Networks-Mathematically/) <br/>  Nice blog on the math behind attentional neural networks (surprisingly hard to find; most blogs give just graphical demonstrations).
+
 [**seq2seq tutorial keras**](https://machinelearningmastery.com/encoder-decoder-attention-sequence-to-sequence-prediction-keras/) 
 
 [**Oscar Wilde Versus Nietzche**](https://philosophynow.org/issues/94/The_Twin_Souls_of_Oscar_Wilde_and_Friedrich_Nietzsche) <br/> Interesting comparisons of the two philosophers

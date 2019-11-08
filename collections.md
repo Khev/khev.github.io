@@ -32,3 +32,6 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 
 [**PyTorch-Trasformers**](https://medium.com/@nikhil.utane/running-pytorch-transformers-on-custom-datasets-717fd9e10fe2) <br/> Tutorial on how to use hugging-face with your own dataset
+
+
+[**Vehicle routing problems**](https://developers.google.com/optimization/routing) <br/> Intro on how to use the googoogle or-tools from vehicle routiong problems

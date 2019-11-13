@@ -42,6 +42,8 @@ Synchronization occurs in many natural and technological systems, from cardiac p
 
 Yet in some systems -- such as groups of sperm, Japanese tree frogs, and colloidal suspensions of magnetic particles -- self assembly and synchronization occur together. In this [project](https://www.nature.com/articles/s41467-017-01190-3), we investigate the co-action of these twin forms of self-orgnaization. You can find a fun demo [here](http://usediscretion.blogspot.com/2017/01/the-swarmalator.html).
 
+Swarmalators have also been realized in the lab: [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be)
+
 &nbsp;
 &nbsp;
 &nbsp;

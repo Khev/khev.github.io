@@ -35,3 +35,7 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 
 [**Vehicle routing problems**](https://developers.google.com/optimization/routing) <br/> Intro on how to use the googoogle or-tools from vehicle routiong problems
+
+
+[**NLP benchmark datasets**](https://machinelearningmastery.com/datasets-natural-language-processing/) 
+

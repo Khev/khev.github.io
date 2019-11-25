@@ -39,3 +39,4 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 [**NLP benchmark datasets**](https://machinelearningmastery.com/datasets-natural-language-processing/) 
 
+[**Data science practice questions**](https://github.com/kojino/120-Data-Science-Interview-Questions/blob/master/data-analysis.md) Someone kindly shared their a collection of questions on their github

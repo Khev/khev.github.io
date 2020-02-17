@@ -39,6 +39,3 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 [**NLP benchmark datasets**](https://machinelearningmastery.com/datasets-natural-language-processing/) 
 
-
-[**Hierarchical softmax**](https://becominghuman.ai/hierarchical-softmax-as-output-activation-function-in-neural-network-1d19089c4f49) 
-

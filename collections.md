@@ -42,4 +42,6 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 [**Heirarchical softmax**](https://yinwenpeng.wordpress.com/2013/09/26/hierarchical-softmax-in-neural-network-language-model/) 
 
 
-[**Python word segmentation**](http://www.grantjenks.com/docs/wordsegment/) 
+[**Python word segmentation**](http://www.grantjenks.com/docs/wordsegment/) <br/> Uses dynamic programming. There is also a Space O(1) method that uses upper triangular matrices.
+
+

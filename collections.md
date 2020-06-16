@@ -44,4 +44,4 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 [**Python word segmentation**](http://www.grantjenks.com/docs/wordsegment/) <br/> Uses dynamic programming. There is also a Space O(1) method that uses upper triangular matrices.
 
-[** Causal inference for time series data **](https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46)
+[**Causal inference for time series data**](https://towardsdatascience.com/inferring-causality-in-time-series-data-b8b75fe52c46)

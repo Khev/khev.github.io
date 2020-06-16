@@ -28,7 +28,7 @@ Monitoring urban environments is a challenging task; air pollution, road quality
 &nbsp;
 
 
-**The Darkweb: a social network anomaly**
+**The darkweb: a social network anomaly**
 
 <img src="/darkweb.png"
 alt="Markdown Monster icon"

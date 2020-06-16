@@ -36,7 +36,7 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-We analyse the darkweb and find its structure is unusual. For example, ∼87% of darkweb sites never link to another site. To call the darkweb a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos. This siloed structure is highly dissimilar to other social networks and indicates the social behavior of darkweb users is much different to that of www users. We show a generalized preferential attachment model can partially explain the strange topology of the darkweb, but a more accurate model based on the social behavior of its users remains out of reach. See the [paper](https://arxiv.org/abs/2005.14023) and [data](https://github.com/Khev/darkweb) for more info.
+The darkweb's structure is unusual. About 87% of its sites never link to another site. To call the darkweb a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos. This siloed structure is highly dissimilar to other social networks and indicates the social behavior of darkweb users is much different to that of www users. We [here](https://arxiv.org/abs/2005.14023) show a generalized preferential attachment model can partially explain the strange topology of the darkweb, but a more accurate model based on the social behavior of its users remains out of reach.Data can be found [here](https://github.com/Khev/darkweb).
 
 &nbsp;
 &nbsp;
@@ -66,7 +66,7 @@ Synchronization occurs in many natural and technological systems, from cardiac p
 
 Yet in some systems -- such as groups of sperm, Japanese tree frogs, and colloidal suspensions of magnetic particles -- self assembly and synchronization occur together. In this [project](https://www.nature.com/articles/s41467-017-01190-3), we investigate the co-action of these twin forms of self-orgnaization. You can find a fun demo [here](http://usediscretion.blogspot.com/2017/01/the-swarmalator.html).
 
-Swarmalators have also been realized in the lab: [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be)
+Swarmalators have also been realized in the lab: [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be)
 
 &nbsp;
 &nbsp;

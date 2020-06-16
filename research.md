@@ -36,7 +36,7 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-We analyse the darkweb and find its structure is unusual. For example, ∼87% of darkweb sites never link to another site. To call the darkweb a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos.This siloed structure is highly dissimilar to other social networks and indicates the social behavior of darkweb users is much different to that of www users. We show a generalized preferential attachment model can partially explain the strange topology of the darkweb but a more accurate model based on the social behavior of its users remains a challenge for future work. See the [paper](https://arxiv.org/abs/2005.14023) and [data](https://github.com/Khev/darkweb) for more info.
+We analyse the darkweb and find its structure is unusual. For example, ∼87% of darkweb sites never link to another site. To call the darkweb a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos. This siloed structure is highly dissimilar to other social networks and indicates the social behavior of darkweb users is much different to that of www users. We show a generalized preferential attachment model can partially explain the strange topology of the darkweb but a more accurate model based on the social behavior of its users remains a challenge for future work. See the [paper](https://arxiv.org/abs/2005.14023) and [data](https://github.com/Khev/darkweb) for more info.
 
 &nbsp;
 &nbsp;

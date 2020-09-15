@@ -14,7 +14,7 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-Monitoring urban environments is a challenging task; air pollution, road quality, congestion, and other quantities of interest vary widely across both time and space, requiring much effort to accurately monitor. In this PNAS [paper](https://www.pnas.org/content/early/2019/06/10/182    1667116) show attaching sensors to third party urban vehicles -- like cars, taxis, buses or trucks -- offers a cheap and scalable solution to this problem. See this [video](https://www.youtube.com/watch?v=Vs3q3jQaM9Q) and this [visualization](http://senseable.mit.edu/wip/urban-sensing/) for more info. 
+Monitoring urban environments is a challenging task; air pollution, road quality, congestion, and other quantities of interest vary widely across both time and space, requiring much effort to accurately monitor. In this PNAS [paper](https://www.pnas.org/content/early/2019/06/10/182    1667116) we show attaching sensors to third party urban vehicles -- like cars, taxis, buses or trucks -- offers a cheap and scalable solution to this problem. See this [video](https://www.youtube.com/watch?v=Vs3q3jQaM9Q) and this [visualization](http://senseable.mit.edu/wip/urban-sensing/) for more info. 
 
 
 &nbsp;

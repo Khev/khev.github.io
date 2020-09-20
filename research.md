@@ -6,7 +6,7 @@ permalink: /research/
 
 
 
-**Quantifying the sensing power of vehicle fleets**
+**The sensing power of vehicle fleets**
 
 <img src="/taxi.jpg"
 alt="Markdown Monster icon"

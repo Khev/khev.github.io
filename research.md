@@ -37,7 +37,7 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-A puzzle for probability theory enthusiasts: 
+A puzzle for probability theorists: 
 
 A curious tourist arrives in a city with *N* roads arranged in a network *G*. She decides to explore the city by taking taxis to randomly chosen locations (via  shortest paths). After being dropped off by a taxi at a given location, she is immediately picked up by another taxi and brought to a new location. How long does it take her to cover every road at least once? (Code available [here](https://github.com/Khev/the_taxi_drive))
 
@@ -64,7 +64,7 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-The darkweb is [unusual](https://arxiv.org/abs/2005.14023); about 87% of its sites never link to another site. To call it a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos. This topology is highly dissimilar to other social networks and indicates darkweb users behave much differently to www users. Preferential attachment can partially explain the strange topology of the darkweb, but a more accurate model based on the social behavior of its users remains a challenge. Data [here](https://github.com/Khev/darkweb).
+The darkweb is [unusual](https://arxiv.org/abs/2005.14023); about 87% of its sites never link to another site. To call it a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos. This topology is highly dissimilar to other social networks and indicates darkweb users behave much differently to www users. Preferential attachment can partially explain the strange topology of the darkweb, but a more accurate model based on the social behavior of its users is lacking. Data [here](https://github.com/Khev/darkweb).
 
 &nbsp;
 &nbsp;

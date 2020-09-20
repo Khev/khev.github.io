@@ -31,7 +31,7 @@ Monitoring urban environments is a challenging task; air pollution, road quality
 
 **The curious tourist problem**
 
-<img src="/taxi-drive.png"
+<img src="/taxi-drive-cropped.png"
 alt="Markdown Monster icon"
 style="float: left; margin-right: 10px;"
 height="150"

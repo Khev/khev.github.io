@@ -12,4 +12,4 @@ permalink: /about/
      height="200"
      align = "left"/>
 
-Kev is an applied mathematician. He did his doctoral work on complex systems under [Steve Strogatz](http://www.stevenstrogatz.com/) at Cornell. Now he's a postdoctoral fellow at the MIT [Senseable City Lab](http://senseable.mit.edu/) trying to understand how cities work, from a complex systems / data science / machine learning perspective.
+Kev is an applied mathematician. He did his PhD on complex systems under [Steve Strogatz](http://www.stevenstrogatz.com/) at Cornell and his postdoc at the MIT [Senseable City Lab](http://senseable.mit.edu/) under [Carlo Ratti](https://carloratti.com/). Now he's a research scientist at [Apple](https://machinelearning.apple.com/research/).

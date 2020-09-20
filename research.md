@@ -14,7 +14,34 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-Monitoring urban environments is a challenging task; air pollution, road quality, congestion, and other quantities of interest vary widely across both time and space, requiring much effort to accurately monitor. In this PNAS [paper](https://www.pnas.org/content/early/2019/06/10/182    1667116) we show attaching sensors to third party urban vehicles -- like cars, taxis, buses or trucks -- offers a cheap and scalable solution to this problem. See this [video](https://www.youtube.com/watch?v=Vs3q3jQaM9Q) and this [visualization](http://senseable.mit.edu/wip/urban-sensing/) for more info. 
+Monitoring urban environments is a challenging task; air pollution, road quality, congestion, and other quantities of interest vary widely across both time and space, requiring much effort to accurately monitor. In this PNAS [paper](https://www.pnas.org/content/early/2019/06/10/182    1667116) we show attaching sensors to third party urban vehicles -- like cars, taxis, buses or trucks -- could offer a cheap and scalable solution to this problem. See this [video](https://www.youtube.com/watch?v=Vs3q3jQaM9Q) and this [visualization](http://senseable.mit.edu/wip/urban-sensing/) for more info. 
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+**The curious tourist problem**
+
+<img src="/taxi-drive.png"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px;"
+height="150"
+align = "left"/>
+
+A puzzle for probability theory enthusiasts: 
+
+"A curious tourist arrives in a city with $N$ roads arranged in a network $S$. She decides to explore the city by taking taxis to randomly chosen locations (via  shortest paths). After being dropped off by a taxi at a given location, she is immediately picked up by another taxi and brought to a new location. How long does it take her to cover every road at least once?"
+
+In this Physica A [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120306890) we numerically explore the curious tourist problem (and other aspects of the taxi-drive, the stochastic process implied by the puzzle). But an analytic solution remains elusive. 
 
 
 &nbsp;
@@ -37,7 +64,7 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-We analyze the darkweb and [find](https://arxiv.org/abs/2005.14023) it's structure is unusual. About 87% of its sites never link to another site. To call the darkweb a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos. This siloed structure is highly dissimilar to other social networks and indicates the social behavior of darkweb users is much different to that of www users. A generalized preferential attachment model can partially explain the strange topology of the darkweb, but a more accurate model based on the social behavior of its users remains out of reach.... Data can be found [here](https://github.com/Khev/darkweb).
+The darkweb is [unusual](https://arxiv.org/abs/2005.14023); about 87% of its sites never link to another site. To call the darkweb a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos. This siloed structure is highly dissimilar to other social networks and indicates the social behavior of darkweb users is much different to that of www users. A generalized preferential attachment model can partially explain the strange topology of the darkweb, but a more accurate model based on the social behavior of its users remains out of reach.... Data can be found [here](https://github.com/Khev/darkweb).
 
 &nbsp;
 &nbsp;

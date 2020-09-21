@@ -39,9 +39,9 @@ align = "left"/>
 
 A puzzle for probability theorists: 
 
-A curious tourist arrives in a city with *N* roads arranged in a network *G*. She decides to explore the city by taking taxis to randomly chosen locations (via  shortest paths). After being dropped off by a taxi at a given location, she is immediately picked up by another taxi and brought to a new location. How long does it take her to cover every road at least once? (Code available [here](https://github.com/Khev/the_taxi_drive))
+A curious tourist arrives in a city with *N* roads arranged in a network *G*. She decides to explore the city by taking taxis to randomly chosen locations (via  shortest paths). After being dropped off by a taxi at a given location, she is immediately picked up by another taxi and brought to a new location. How long does it take her to cover every road at least once? (Code available [here](https://github.com/Khev/the_taxi_drive).)
 
-In this Physica A [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120306890), we numerically explore the curious tourist problem (and other aspects of the taxi-drive, the stochastic process implied by the puzzle). But an analytic solution remains elusive.
+In this Physica A [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120306890), we numerically explore the curious tourist problem (and other aspects of the taxi-drive, the stochastic process implied by the puzzle), but an analytic solution remains elusive.
 
 
 &nbsp;

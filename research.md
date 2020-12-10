@@ -4,6 +4,26 @@ title: research
 permalink: /research/
 ---
 
+**Conservation law for human mobility** 
+
+<img src="/taxi.jpg"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px;"
+height="150"
+align = "left"/>
+
+Human mobility patterns obey suprisingly simple laws. The universal, parameter-free radiation model describes x
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 **The sensing power of vehicle fleets**

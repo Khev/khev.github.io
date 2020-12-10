@@ -48,3 +48,6 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 
 [**The war on excellence**](https://www.edge.org/response-detail/23879) <br/> "Needless to say, the spectacle of an individual moving against his or her expert community away from carrots and towards sticks is generally viewed as a cause for alarm independently of whether that individual is a malfunctioning fool or a genius about to invalidate community groupthink."
+
+
+[**The soul of man under socialism**](https://www.marxists.org/reference/archive/wilde-oscar/soul-man/)

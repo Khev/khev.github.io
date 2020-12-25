@@ -14,7 +14,7 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 "Your gaze is drawn, a flirtation begins, you learn more, you find some interlocutors, and, sometimes before you know it, your topic is before you and your intellectual course is set. There’s no algorithm for this: It’ll happen or it won’t."
 
 
-[**De profundis**](https://www.gutenberg.org/files/921/921-h/921-h.htm) <br/> Oscar Wilde's 'love' letter to Bosie douglas when in jail. Long, but _very_ worth it.
+[**De profundis**](https://www.gutenberg.org/files/921/921-h/921-h.htm) <br/> Oscar Wilde's 'love' letter to Bosie douglas when incarerated.
 
 [**Letter by Boltzmann**](https://homepage.univie.ac.at/Walter.Kutschera/Boltzmann_Reise%20ins%20Eldorado_English%20translation.pdf) <br/> A surprisingly personal and entertaining read
 
@@ -50,3 +50,6 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 [**The war on excellence**](https://www.edge.org/response-detail/23879) <br/> "Needless to say, the spectacle of an individual moving against his or her expert community away from carrots and towards sticks is generally viewed as a cause for alarm independently of whether that individual is a malfunctioning fool or a genius about to invalidate community groupthink."
 
 [**The soul of man under socialism**](https://www.marxists.org/reference/archive/wilde-oscar/soul-man/) <br/> Early essay on the benefits of socialism for an artistic / individual point of view.
+
+
+[**Naive probabilism**](https://researchers.one/articles/20.03.00003)

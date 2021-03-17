@@ -20,4 +20,4 @@ Heart cells, sensor networks, and earthquakes get in sync by firing sudden pulse
 
 
 **Swarmalators** <br/>
-Fireflies can sync. Fish can swarm. But what can sync and swarm? Find out in [this](https://phys.org/news/2017-11-mathematician-swarmalators-future-science.html) Phys.org article, and [this](https://sinews.siam.org/Details-Page/self-organization-in-space-and-time) SIAM news article.  
+Fireflies can sync. Fish can swarm. But what can sync and swarm? Find out in [this](https://phys.org/news/2017-11-mathematician-swarmalators-future-science.html) Phys.org article, and [this](https://sinews.siam.org/Details-Page/self-organization-in-space-and-time) SIAM news article. Soft robots also exhibit swarmalator phenomena [here](https://www.sciencedaily.com/releases/2021/03/210316112319.htm). 

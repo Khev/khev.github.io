@@ -5,6 +5,26 @@ permalink: /research/
 ---
 
 
+**Universal visitation law of human mobility**
+
+<img src="/wanderlust.png"
+alt="Markdown Monster icon"
+style="float: left; margin-right: 10px;"
+height="150"
+align = "left"/>
+
+Human mobility patterns are surprisingly simple. In spite of many hard to model effects like climate, culture, and socioeconomic activities, aggregate migration flows between different locations obey a universal `radiation' model. In this "Wanderlust" project  we show that the spectrum of these flows -- defined as the number of individuals that visit a given location with frequency $f$ from a distance $r$ away -- are also universal: they obey a simple inverse square law in the product (rf). See [here](https://senseable.mit.edu/wanderlust/) for lovely visualizations and [here](https://www.nature.com/articles/s41586-021-03480-9) for the publication.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 **The sensing power of vehicle fleets**
 

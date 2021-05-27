@@ -6,7 +6,7 @@ permalink: /media_coverage/
 
 
 **Universal visitation law of human mobility** <br/>
-Large datasets of human movement uncover a simple law between the distance people travel to locations and the number of revisits to that location  See [here](https://www.nature.com/articles/d41586-021-01355-7)
+Large datasets of human movement uncover a simple law between the distance people travel to locations and the number of revisits to that location. See [this](https://www.nature.com/articles/d41586-021-01355-7) Nature article.
 
 **The sensing power of vehicle fleets** <br/>
 Can we use taxis to monitor urban enviroments? See

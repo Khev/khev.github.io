@@ -98,7 +98,7 @@ Yet in some systems -- such as groups of sperm, Japanese tree frogs, and colloid
 Python code [here](https://github.com/Khev/swarmalators).
 Mathematica code [here](https://notebookarchive.org/swarmalators--2019-05-cgd0h02/).
 
-Swarmalators have also been realized in the lab: [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be)
+Swarmalators have also been realized in the lab: [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be) and have been used as inspiration for making music! [music1](https://www.youtube.com/watch?v=N85Og0TxyNo) [music2](https://www.youtube.com/watch?v=lq0JKNig37s).
 
 &nbsp;
 &nbsp;

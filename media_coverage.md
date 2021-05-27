@@ -5,6 +5,9 @@ permalink: /media_coverage/
 ---
 
 
+**Universal visitation law of human mobility** <br/>
+Large datasets of human movement uncover a simple law between the distance people travel to locations and the number of revisits to that location  See [here](https://www.nature.com/articles/d41586-021-01355-7)
+
 **The sensing power of vehicle fleets** <br/>
 Can we use taxis to monitor urban enviroments? See
 [this](http://news.cornell.edu/stories/2019/06/how-many-taxis-can-scan-city-fewer-youd-think)
@@ -16,7 +19,7 @@ FastCompany article, and
 
 
 **Pulse-coupled oscillators** <br/>
-Heart cells, sensor networks, and earthquakes get in sync by firing sudden pulses. What does the "route to synchrony" look like? Find out [here](http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.115.064101).
+Heart cells, sensor networks, and earthquakes get in sync by firing sudden pulses. What does the "route to synchrony" look like? See [here](http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.115.064101).
 
 
 **Swarmalators** <br/>

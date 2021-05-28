@@ -15,6 +15,9 @@ align = "left"/>
 
 Human mobility patterns are surprisingly simple. In spite of many hard to model effects like climate, culture, and socioeconomic activities, aggregate migration flows between different locations obey a universal "radiation" model. In this Wanderlust project we show that the spectrum of these flows -- defined as the number of individuals that visit a given location with frequency *f* from a distance *r* away -- are also universal: they obey a simple inverse square law in the product *rf*. Lovely visualizations are [here](https://senseable.mi`t.edu/wanderlust/) and the publication is [here](https://www.nature.com/articles/s41586-021-03480-9).
 
+* Paper
+* Demo
+
 &nbsp;
 &nbsp;
 &nbsp;

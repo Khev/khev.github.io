@@ -91,7 +91,7 @@ style="float: left; margin-right: 10px;"
 height="120"
 align = "left"/>
 
-During every heartbeat, thousands of pacemaker cells discharge all-at-once. This collective firing contracs the cardiac muscles which pumps blood around the body. This paper studies how the cells manage to synchronize their discharges, thereby keeping the heart beating.
+During every heartbeat, thousands of pacemaker cells discharge all-at-once. This collective firing contracs the cardiac muscles which pumps blood around the body. This paper studies how the cells manage to synchronize their discharges -- how they keep the heart beating.
 
 
 &nbsp;

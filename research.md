@@ -70,7 +70,7 @@ style="float: left; margin-right: 10px;"
 height="250"
 align = "left"/>
 
-Clocks, hearts, and lasers synchronize their behavior in time. Birds, fish, and insects swarm as groups in space. This project is about entities which coordinates themselves in both space and time. Physical examples of "swaramalators" -- short for swarming oscillators -- include sperm,  magentic Janus particles, Japanese tree frogs. Swarmalators have been realized in the lab [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be) and been used as inspiration for making music![Link 1](https://www.youtube.com/watch?v=N85Og0TxyNo) [link 2](https://www.youtube.com/watch?v=lq0JKNig37s).
+Clocks, hearts, and lasers synchronize their behavior in time. Birds, fish, and insects swarm as groups in space. This project is about entities which coordinates themselves in both space and time. Physical examples of "swaramalators" -- short for swarming oscillators -- include sperm,  magentic Janus particles, and Japanese tree frogs. Swarmalators have been realized in the lab [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be) and been used as inspiration for making music![Link 1](https://www.youtube.com/watch?v=N85Og0TxyNo) [link 2](https://www.youtube.com/watch?v=lq0JKNig37s).
 
 
 * [Oscillators that sync and swarm](https://www.nature.com/articles/s41467-017-01190-3) *Nature Communications* (2017)

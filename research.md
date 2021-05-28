@@ -13,7 +13,7 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-Human mobility patterns are surprisingly simple. In spite of many hard to model effects like individual preferences, socioeconomic activities, and eviromental conditions, net migration flows between different locations obey a universal ["radiation" model](https://en.wikipedia.org/wiki/Radiation_law_for_human_mobility#:~:text=type%20of%20network.-,The%20radiation%20model,of%20people%20between%20different%20locations.). Here we show that the spectrum of these flows -- defined as the number of individuals that visit a given location with frequency *f* from a distance *r* away -- are also universal: they obey a simple inverse square law in the product *rf*. 
+Human mobility patterns are surprisingly simple. In spite of many hard to model effects like socioeconomic activities, enviromental conditions, and individual preferences, net migration flows between different locations obey a universal ["radiation" model](https://en.wikipedia.org/wiki/Radiation_law_for_human_mobility#:~:text=type%20of%20network.-,The%20radiation%20model,of%20people%20between%20different%20locations.). Here we show that the spectrum of these flows -- defined as the number of individuals that visit a given location with frequency *f* from a distance *r* away -- are also universal: they obey a simple inverse square law in the product *rf*. 
  
 * [Universal visitation law of human mobility](https://www.nature.com/articles/s41586-021-03480-9) *Nature*, 593, 522-527 (2021)
 * [Visualization](https://senseable.mit.edu/wanderlust/)

@@ -137,29 +137,6 @@ The darkweb is [unusual](https://arxiv.org/abs/2005.14023). About 87% of its sit
 &nbsp;
 
 
-**Swarmalators: oscillators that sync and swarm**
-
-<img src="/swarmalator_states.png"
-alt="Markdown Monster icon"
-style="float: left; margin-right: 10px;"
-height="250"
-align = "left"/>
-
-
-Synchronization occurs in many natural and technological systems, from cardiac pacemaker cells to coupled lasers. In the synchronized state, the individual cells or lasers coordinate the timing of their oscillations, but they do not move through space. A complementary form of self-organization occurs among swarming insects, flocking birds, or schooling fish; now the individuals move through space, but without conspicuously altering their internal states. 
-
-Yet in some systems -- such as groups of sperm, Japanese tree frogs, and colloidal suspensions of magnetic particles -- self assembly and synchronization occur together. In this [project](https://www.nature.com/articles/s41467-017-01190-3), we investigate the co-action of these twin forms of self-orgnaization. You can find a fun demo [here](http://usediscretion.blogspot.com/2017/01/the-swarmalator.html) and [here](https://www.complexity-explorables.org/explorables/swarmalators/)
-
-
-Python code [here](https://github.com/Khev/swarmalators).
-Mathematica code [here](https://notebookarchive.org/swarmalators--2019-05-cgd0h02/).
-
-Swarmalators have also been realized in the lab: [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be) and have been used as inspiration for making music! [music1](https://www.youtube.com/watch?v=N85Og0TxyNo) [music2](https://www.youtube.com/watch?v=lq0JKNig37s).
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 **Pulse coupled oscillators**
 

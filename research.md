@@ -99,7 +99,7 @@ During every heartbeat, thousands of pacemaker cells discharge all-at-once. This
 &nbsp;
 &nbsp;
 
-* [Synchronization as Aggregation: Cluster Kinetics of Pulse-Coupled Oscillators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.064101) *Physical Review Letters* (2015)
+* [Cluster Kinetics of Pulse-Coupled Oscillators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.064101) *Physical Review Letters* (2015)
 
 
 &nbsp;

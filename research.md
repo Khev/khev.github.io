@@ -93,9 +93,28 @@ align = "left"/>
 
 During every heartbeat, thousands of pacemaker cells discharge all-at-once. This collective firing contracs the cardiac muscles which pumps blood around the body. This paper studies how the cells manage to synchronize their discharges, thereby keeping the heart beating.
 
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 * [Synchronization as Aggregation: Cluster Kinetics of Pulse-Coupled Oscillators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.064101) *Physical Review Letters* (2015)
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 

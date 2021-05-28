@@ -39,6 +39,13 @@ align = "left"/>
 
 Monitoring urban environments is a challenging task; air pollution, road quality, congestion, and other quantities of interest vary widely across both time and space, requiring much effort to accurately monitor. Here we show attaching sensors to third party urban vehicles -- like cars, taxis, buses or trucks -- could offer a cheap and scalable solution to this problem.
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 * [Sensing power of vehicle fleets](https://www.pnas.org/content/pnas/early/2019/06/10/1821667116.full.pdf) *PNAS* (2019)
 * [Visualization](https://senseable.mit.edu/wanderlust/)
 

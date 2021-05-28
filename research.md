@@ -157,7 +157,7 @@ align = "left"/>
 
 The darkweb is [unusual](https://arxiv.org/abs/2005.14023). About 87% of its sites never link to another site. To call it a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos. This topology is highly dissimilar to other social networks and indicates darkweb users behave much differently to www users. Preferential attachment can partially explain the strange topology of the darkweb, but a more accurate model based on the social behavior of its users is lacking. 
 
-* [Data](https://github.com/Khev/darkweb).
+* [Data](https://github.com/Khev/darkweb)
 
 &nbsp;
 &nbsp;

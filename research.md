@@ -13,7 +13,7 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-Human mobility patterns are surprisingly simple. In spite of many hard to model effects like individual preferences, socioeconomic activities, and eviromental conditions, netmigration flows between different locations obey a universal ["radiation" model](https://en.wikipedia.org/wiki/Radiation_law_for_human_mobility#:~:text=type%20of%20network.-,The%20radiation%20model,of%20people%20between%20different%20locations.). Here we show that the spectrum of these flows -- defined as the number of individuals that visit a given location with frequency *f* from a distance *r* away -- are also universal: they obey a simple inverse square law in the product *rf*. 
+Human mobility patterns are surprisingly simple. In spite of many hard to model effects like individual preferences, socioeconomic activities, and eviromental conditions, net migration flows between different locations obey a universal ["radiation" model](https://en.wikipedia.org/wiki/Radiation_law_for_human_mobility#:~:text=type%20of%20network.-,The%20radiation%20model,of%20people%20between%20different%20locations.). Here we show that the spectrum of these flows -- defined as the number of individuals that visit a given location with frequency *f* from a distance *r* away -- are also universal: they obey a simple inverse square law in the product *rf*. 
  
 * [Universal visitation law of human mobility](https://www.nature.com/articles/s41586-021-03480-9) *Nature*, 593, 522-527 (2021)
 * [Visualization](https://senseable.mit.edu/wanderlust/)
@@ -70,8 +70,7 @@ style="float: left; margin-right: 10px;"
 height="250"
 align = "left"/>
 
-
-Synchronization occurs in many natural and technological systems, from cardiac pacemaker cells to coupled lasers. In the synchronized state, the individual cells or lasers coordinate the timing of their oscillations, but they do not move through space. A complementary form of self-organization occurs among swarming insects, flocking birds, or schooling fish; now the individuals move through space, but without conspicuously altering their internal states. Yet in some systems -- such as groups of sperm, Japanese tree frogs, and colloidal suspensions of magnetic particles -- self assembly and synchronization occur together. Here we investigate the co-action of these twin forms of self-orgnaization. Swarmalators have also been realized in the lab: [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be) and have been used as inspiration for making music![Link 1](https://www.youtube.com/watch?v=N85Og0TxyNo) [link 2](https://www.youtube.com/watch?v=lq0JKNig37s).
+Clocks, hearts, and lasers synchronize their behavior in time. Birds, fish, and insects swarm as groups in space. This project is about entities which coordinates themselves in both space and time. Physical examples of "swaramalators" -- short for swarming oscillators -- include groups of sperm, colloids of magentic Janus particles, and groups of Japanese tree frogs. Swarmalators have also been realized in the lab: [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be) and have been used as inspiration for making music![Link 1](https://www.youtube.com/watch?v=N85Og0TxyNo) [link 2](https://www.youtube.com/watch?v=lq0JKNig37s).
 
 
 * [Oscillators that sync and swarm](https://www.nature.com/articles/s41467-017-01190-3) *Nature Communications* (2017)

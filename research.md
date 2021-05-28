@@ -37,8 +37,10 @@ style="float: left; margin-right: 10px;"
 height="150"
 align = "left"/>
 
-Monitoring urban environments is a challenging task; air pollution, road quality, congestion, and other quantities of interest vary widely across both time and space, requiring much effort to accurately monitor. In this PNAS [paper](https://www.pnas.org/content/early/2019/06/10/182    1667116) we show attaching sensors to third party urban vehicles -- like cars, taxis, buses or trucks -- could offer a cheap and scalable solution to this problem. See this [video](https://www.youtube.com/watch?v=Vs3q3jQaM9Q) and this [visualization](http://senseable.mit.edu/wip/urban-sensing/) for more info. 
+Monitoring urban environments is a challenging task; air pollution, road quality, congestion, and other quantities of interest vary widely across both time and space, requiring much effort to accurately monitor. Here we show attaching sensors to third party urban vehicles -- like cars, taxis, buses or trucks -- could offer a cheap and scalable solution to this problem.
 
+* [Sensing power of vehicle fleets](https://www.pnas.org/content/pnas/early/2019/06/10/1821667116.full.pdf) *PNAS* (2019)
+* [Visualization](https://senseable.mit.edu/wanderlust/)
 
 &nbsp;
 &nbsp;
@@ -62,9 +64,11 @@ align = "left"/>
 
 A puzzle for probability theorists: 
 
-A curious tourist arrives in a city with *N* roads arranged in a network *G*. She decides to explore the city by taking taxis to randomly chosen locations (via  shortest paths). After being dropped off by a taxi at a given location, she is immediately picked up by another taxi and brought to a new location. How long does it take her to cover every road at least once? (Code available [here](https://github.com/Khev/the_taxi_drive).)
+A curious tourist arrives in a city with *N* roads arranged in a network *G*. She decides to explore the city by taking taxis to randomly chosen locations (via  shortest paths). After being dropped off by a taxi at a given location, she is immediately picked up by another taxi and brought to a new location. How long does it take her to cover every road at least once? Here we  numerically explore the curious tourist problem (and other aspects of the taxi-drive, the stochastic process implied by the puzzle), but an analytic solution remains elusive.
 
-In this Physica A [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437120306890), we numerically explore the curious tourist problem (and other aspects of the taxi-drive, the stochastic process implied by the puzzle), but an analytic solution remains elusive.
+
+* [Urban sensing as a random search problem](https://www.pnas.org/content/pnas/early/2019/06/10/1821667116.full.pdf) *Physica A* (2020)
+* [Code](https://github.com/Khev/the_taxi_drive)
 
 
 &nbsp;

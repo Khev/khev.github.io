@@ -46,7 +46,7 @@ Monitoring urban environments is a challenging task; air pollution, road quality
 &nbsp;
 &nbsp;
 
-* [Sensing power of vehicle fleets](https://www.pnas.org/content/pnas/early/2019/06/10/1821667116.full.pdf) *PNAS* (2019)
+* [Quantifying the sensing power of vehicle fleets](https://www.pnas.org/content/pnas/early/2019/06/10/1821667116.full.pdf) *PNAS* 116.26 (2019)
 * [Visualization](https://senseable.mit.edu/wanderlust/)
 
 &nbsp;
@@ -73,7 +73,7 @@ align = "left"/>
 Clocks, hearts, and lasers synchronize their behavior in time. Birds, fish, and insects swarm as groups in space. This project is about entities which coordinates themselves in both space and time. Physical examples of "swaramalators" -- short for swarming oscillators -- include sperm,  magentic Janus particles, and Japanese tree frogs. Swarmalators have been realized in the lab [2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA) & [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be) and been used as inspiration for making music![Link 1](https://www.youtube.com/watch?v=N85Og0TxyNo) [link 2](https://www.youtube.com/watch?v=lq0JKNig37s).
 
 
-* [Oscillators that sync and swarm](https://www.nature.com/articles/s41467-017-01190-3) *Nature Communications* (2017)
+* [Oscillators that sync and swarm](https://www.nature.com/articles/s41467-017-01190-3) *Nature Communications* 8.1 (2017)
 * Visualizations [here](http://usediscretion.blogspot.com/2017/01/the-swarmalator.html) and [here](https://www.complexity-explorables.org/explorables/swarmalators/)
 * [Python code](https://github.com/Khev/swarmalators) & [Mathematica code](https://notebookarchive.org/swarmalators--2019-05-cgd0h02/)
 
@@ -99,7 +99,7 @@ During every heartbeat, thousands of pacemaker cells discharge all-at-once. This
 &nbsp;
 &nbsp;
 
-* [Cluster Kinetics of Pulse-Coupled Oscillators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.064101) *Physical Review Letters* (2015)
+* [Cluster Kinetics of Pulse-Coupled Oscillators](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.064101) *Physical Review Letters* 115.6 (2015)
 
 
 &nbsp;
@@ -157,6 +157,8 @@ align = "left"/>
 
 The darkweb is [unusual](https://arxiv.org/abs/2005.14023). About 87% of its sites never link to another site. To call it a "web" is thus a misnomer -- it's better described as a set of largely isolated dark silos. This topology is highly dissimilar to other social networks and indicates darkweb users behave much differently to www users. Preferential attachment can partially explain the strange topology of the darkweb, but a more accurate model based on the social behavior of its users is lacking. 
 
+
+* [The darkweb: a social network anomaly](https://arxiv.org/abs/2005.14023)
 * [Data](https://github.com/Khev/darkweb)
 
 &nbsp;

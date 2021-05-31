@@ -47,7 +47,7 @@ Monitoring urban environments is a challenging task; air pollution, road quality
 &nbsp;
 
 * [Quantifying the sensing power of vehicle fleets](https://www.pnas.org/content/pnas/early/2019/06/10/1821667116.full.pdf) *PNAS* 116.26 (2019)
-* [Visualization](https://senseable.mit.edu/wanderlust/)
+* [Visualization](http://senseable.mit.edu/urban-sensing/)
 
 &nbsp;
 &nbsp;

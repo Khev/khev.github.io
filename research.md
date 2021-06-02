@@ -70,7 +70,7 @@ style="float: left; margin-right: 10px;"
 height="250"
 align = "left"/>
 
-Clocks, hearts, and lasers synchronize their behavior in time. Birds, fish, and insects swarm as groups in space. This project is about entities which both sync and swarm, spontaneously self-organizing in both space and time. Examples of "swaramalators" -- or swarming oscillators -- include sperm, Janus particles, and tree frogs. 
+Clocks, hearts, and lasers synchronize their behavior in time. Birds, fish, and insects swarm as groups in space. This project is about entities which both sync and swarm, spontaneously self-organizing in both space and time. Examples of "swarmalators" -- or swarming oscillators -- include sperm, Janus particles, and tree frogs. 
 
 Swarmalators have been realized in the lab ([2D](https://www.youtube.com/watch?v=LUp_5bMMqXE), [2D](https://www.youtube.com/watch?v=ic4zEgVMSsA), [3D](https://www.youtube.com/watch?v=Db6aiSa4soU&feature=youtu.be) and been used as [inspiration](https://www.youtube.com/watch?v=lq0JKNig37s) for making music!
 

@@ -53,3 +53,5 @@ This is a fantastic article on the power, purpose, and purview of modeling in th
 
 
 [**Naive probabilism**](https://researchers.one/articles/20.03.00003)
+
+[**Fading of forgiveness**](https://www.cardus.ca/comment/article/the-fading-of-forgiveness/)
